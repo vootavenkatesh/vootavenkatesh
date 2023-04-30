@@ -8,7 +8,7 @@ I always like to Network with people who are smarter than me to learn new things
 
 * 🌍  I'm based in INDIA 🚩
 * 🖥️  See my github portfolio at [venkatesh](https://github.com/vootavenkatesh)
-* ✉️  You can contact me at [gmail](vootavenky@gmail.com)
+* ✉️  You can contact me at [linkedin](https://www.linkedin.com/in/voota-venkatesh-aba73a12a/)
 * 🚀  I'm currently working on [MERN Projects](https://github.com/vootavenkatesh)
 * 🧠  I'm learning Latest Technologies
 * 🤝  I'm open to collaborating on Projects which brings value to the Community

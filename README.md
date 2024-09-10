@@ -35,6 +35,22 @@ I always like to Network with people who are smarter than me to learn new things
 
 <p align="left"> <a href="https://www.facebook.com/profile.php?id=100005048508181" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://github.com/vootavenkatesh" target="_blank" rel="noreferrer"><img src="https://th.bing.com/th/id/OIP.eTCbdR_AFzbqHMPXhrJWUQAAAA?pid=ImgDet&rs=1" width="32" height="32" /></a> <a href="https://www.instagram.com/venkat___naidu/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/voota-venkatesh-aba73a12a/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://twitter.com/vootavenky" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
+## Interest
+
+---
+
+*   CyberSecurity
+*   Reverse Engineering
+*   Malware Analysis
+*   Capture the Flag (CTF)
+*   Windows Internals
+*   Network Security
+*   Nmap,Wireshark
+*   Penetration Tesing using Burp suite
+*   Linux Driver Development
+*   Vulnerability Research
+*   Exploit Development
+*   Artificial Intelligence (AI)
 
 ### Badges
 

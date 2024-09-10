@@ -27,7 +27,8 @@ I always like to Network with people who are smarter than me to learn new things
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
 <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
-<a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored-dark.svg" width="36" height="36" alt="Babel" /></a>
+<a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored-dark.svg" width="36" height="36" alt="Babel" /></a> 
+<a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://www.google.com/imgres?q=splunk&imgurl=https%3A%2F%2Fcyberriskleaders.com%2Fwp-content%2Fuploads%2F2017%2F01%2Fsplunk-logo600x600.png&imgrefurl=https%3A%2F%2Fcyberriskleaders.com%2Fsplunk-cloud-launches-on-aws-marketplace%2F&docid=yM7KnkxvoNTv6M&tbnid=BNDMMAWG3ZkR_M&vet=12ahUKEwj_z6HNrriIAxXP1jgGHeKSBdsQM3oECBcQAA..i&w=600&h=600&hcb=2&ved=2ahUKEwj_z6HNrriIAxXP1jgGHeKSBdsQM3oECBcQAA" width="36" height="36" alt="Splunk" /></a>
 </p>
 
 

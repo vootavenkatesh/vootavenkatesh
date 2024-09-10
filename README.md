@@ -1,15 +1,15 @@
 Hi 👋 My name is Venkatesh
 ============================
 
-A passionate Web Developer / Designer 🧑‍💻
+A passionate Cybersecurity / Log Analyst 🧑‍💻
 -------------------------------------------
 
 I always like to Network with people who are smarter than me to learn new things and explore the different fields
 
 * 🌍  I'm based in INDIA 🚩
 * 🖥️  See my github portfolio at [venkatesh](https://github.com/vootavenkatesh)
-* ✉️  You can contact me at [linkedin](https://www.linkedin.com/in/voota-venkatesh-aba73a12a/)
-* 🚀  I'm currently working on [MERN Projects](https://github.com/vootavenkatesh)
+* ✉️  You can contact me at [linkedin](https://www.linkedin.com/in/venkatesh-v-7763282a3/)
+* 🚀  I'm currently working on [Networrk Assets Security Projects](https://github.com/vootavenkatesh)
 * 🧠  I'm learning Latest Technologies
 * 🤝  I'm open to collaborating on Projects which brings value to the Community
 * ⚡  Building the Habit of Consistent Learning
